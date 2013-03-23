@@ -1,0 +1,13 @@
+{
+  "name": "scroll-position",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/scroll-position.git"
+  },
+  "description": "get the current scrolling position of the browser window",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["scroll", "position", "dom"],
+  "license": "MIT",
+  "author": "Nathan Zadoks"
+}

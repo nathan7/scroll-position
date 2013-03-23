@@ -1,0 +1,9 @@
+{
+  "name": "scroll-position",
+  "repo": "nathan7/scroll-position",
+  "description": "get the current scrolling position of the browser window",
+  "version": "1.0.0",
+  "scripts": ["index.js"],
+  "keywords": ["scroll", "position", "dom"],
+  "license": "MIT"
+}
